@@ -1,6 +1,6 @@
 const fs = require('fs')
 const path = require('path')
-
+//test
 // this path needs to be relative to work with fs
 const contactsLocation = 'contacts.json'
 
